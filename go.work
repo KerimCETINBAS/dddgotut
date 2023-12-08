@@ -1,0 +1,8 @@
+go 1.21.1
+
+use .
+use ./api
+use ./contracts
+use ./domain
+use ./application
+use ./infrastructure
